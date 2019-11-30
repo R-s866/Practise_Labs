@@ -1,0 +1,11 @@
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\obj\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\obj\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\bin\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.exe
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\bin\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.deps.json
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\bin\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\bin\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\bin\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.dll
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\bin\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.pdb
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\obj\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.dll
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\obj\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.pdb
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_002_OOP_With_Interfaces\obj\Debug\netcoreapp3.1\Lab_002_OOP_With_Interfaces.csprojAssemblyReference.cache

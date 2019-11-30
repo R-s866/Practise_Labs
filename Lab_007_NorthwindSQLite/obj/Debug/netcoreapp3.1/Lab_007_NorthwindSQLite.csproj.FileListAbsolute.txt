@@ -1,0 +1,4 @@
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_007_NorthwindSQLite\bin\Debug\netcoreapp3.1\Lab_007_NorthwindSQLite.exe
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_007_NorthwindSQLite\obj\Debug\netcoreapp3.1\Lab_007_NorthwindSQLite.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_007_NorthwindSQLite\obj\Debug\netcoreapp3.1\Lab_007_NorthwindSQLite.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_007_NorthwindSQLite\obj\Debug\netcoreapp3.1\Lab_007_NorthwindSQLite.csprojAssemblyReference.cache

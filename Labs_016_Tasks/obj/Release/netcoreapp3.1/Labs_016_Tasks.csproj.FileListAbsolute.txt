@@ -1,0 +1,10 @@
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\bin\Release\netcoreapp3.1\Labs_016_Tasks.exe
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\bin\Release\netcoreapp3.1\Labs_016_Tasks.deps.json
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\bin\Release\netcoreapp3.1\Labs_016_Tasks.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\bin\Release\netcoreapp3.1\Labs_016_Tasks.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\bin\Release\netcoreapp3.1\Labs_016_Tasks.dll
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\bin\Release\netcoreapp3.1\Labs_016_Tasks.pdb
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreapp3.1\Labs_016_Tasks.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreapp3.1\Labs_016_Tasks.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreapp3.1\Labs_016_Tasks.dll
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreapp3.1\Labs_016_Tasks.pdb

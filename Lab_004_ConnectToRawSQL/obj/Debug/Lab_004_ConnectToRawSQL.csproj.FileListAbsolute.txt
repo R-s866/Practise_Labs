@@ -1,0 +1,6 @@
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_004_ConnectToRawSQL\bin\Debug\Lab_004_ConnectToRawSQL.exe.config
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_004_ConnectToRawSQL\bin\Debug\Lab_004_ConnectToRawSQL.exe
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_004_ConnectToRawSQL\bin\Debug\Lab_004_ConnectToRawSQL.pdb
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_004_ConnectToRawSQL\obj\Debug\Lab_004_ConnectToRawSQL.csprojAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_004_ConnectToRawSQL\obj\Debug\Lab_004_ConnectToRawSQL.exe
+C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_004_ConnectToRawSQL\obj\Debug\Lab_004_ConnectToRawSQL.pdb

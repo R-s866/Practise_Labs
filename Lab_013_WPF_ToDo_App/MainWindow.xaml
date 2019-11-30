@@ -1,0 +1,48 @@
+﻿<Window x:Class="Lab_013_WPF_ToDo_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_013_WPF_ToDo_App"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="2"
+               Grid.ColumnSpan="4" Content="To Do App"
+               FontWeight="DemiBold" FontSize="24"
+               Background="AliceBlue" HorizontalContentAlignment="Center"
+               HorizontalAlignment="Stretch" VerticalAlignment="Center">
+        </Label>
+        <Label Content="ID" Grid.Row="1" Grid.Column="1" FontSize="25"></Label>
+        <Label Content="ID" Grid.Row="1" Grid.Column="2" FontSize="25"></Label>
+        <Label Content="ID" Grid.Row="1" Grid.Column="3" FontSize="25"></Label>
+        <Label Content="ID" Grid.Row="1" Grid.Column="4" FontSize="25"></Label>
+        <Label Content="ID" Grid.Row="1" Grid.Column="5" FontSize="25"></Label>
+        <Label Content="ID" Grid.Row="1" Grid.Column="6" FontSize="25"></Label>
+        <ListView x:Name="ListViewMain" Grid.Row="2" Grid.RowSpan="7" Grid.Column="1" Grid.ColumnSpan="6" FontSize="25"
+                  SelectionChanged="ListBox_SelectionChanged"></ListView>
+    </Grid>
+</Window>
