@@ -8,3 +8,4 @@ C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreap
 C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreapp3.1\Labs_016_Tasks.AssemblyInfo.cs
 C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreapp3.1\Labs_016_Tasks.dll
 C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreapp3.1\Labs_016_Tasks.pdb
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_016_Tasks\obj\Release\netcoreapp3.1\Labs_016_Tasks.csprojAssemblyReference.cache

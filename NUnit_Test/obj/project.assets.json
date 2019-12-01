@@ -1803,7 +1803,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Labs_006_Rabbits_Init_100/1.0.0": {
+      "Lab_006_Rabbits_Init_100/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1814,10 +1814,10 @@
           "RandomNameGeneratorLibrary": "1.2.2"
         },
         "compile": {
-          "bin/placeholder/Labs_006_Rabbits_Init_100.dll": {}
+          "bin/placeholder/Lab_006_Rabbits_Init_100.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Labs_006_Rabbits_Init_100.dll": {}
+          "bin/placeholder/Lab_006_Rabbits_Init_100.dll": {}
         }
       },
       "Lab_008_TDD_Collections/1.0.0": {
@@ -1834,7 +1834,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Labs_006_Rabbits_Init_100": "1.0.0"
+          "Lab_006_Rabbits_Init_100": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Lab_009_Rabbit_Test.dll": {}
@@ -6261,10 +6261,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Labs_006_Rabbits_Init_100/1.0.0": {
+    "Lab_006_Rabbits_Init_100/1.0.0": {
       "type": "project",
-      "path": "../Labs_006_Rabbits_Init_100/Labs_006_Rabbits_Init_100.csproj",
-      "msbuildProject": "../Labs_006_Rabbits_Init_100/Labs_006_Rabbits_Init_100.csproj"
+      "path": "../Labs_006_Rabbits_Init_100/Lab_006_Rabbits_Init_100.csproj",
+      "msbuildProject": "../Labs_006_Rabbits_Init_100/Lab_006_Rabbits_Init_100.csproj"
     },
     "Lab_008_TDD_Collections/1.0.0": {
       "type": "project",

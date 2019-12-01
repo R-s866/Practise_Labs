@@ -9,45 +9,51 @@ using System.Runtime.InteropServices.ComTypes;
 
 namespace Lab_014_LINQ
 {
+    #region Summary
+
+    /*
+     * 1. Read Northwind using Entity core 2.1.1
+     * 2. Basic LINQ
+     * 3. More advanced LINQ
+     * 
+     */
+
+    #endregion
+
     class Program
     {
-        static List<Customer> c;
+        static List<Customer> customersList ;
         static List<Customer> customers;
         static List<Product> products;
         static List<Category> categories;
 
         static void Main(string[] args)
         {
-            #region Explanation
-
-            /*
-             * 1. Read Northwind using Entity core 2.1.1
-             * 2. Basic LINQ
-             * 3. More advanced LIQN
-             * 
-             */
-
-            #endregion
-
-
+            // 'Northwind : Dbcontext' uses the 'Northwind' database 
             using (var db = new Northwind())
             {
-                c = (from customer in db.Customers
+                // Returns customers from 'Northwind' database, customers from cities : london, berlin : only
+                customersList = (from customer in db.Customers
                      where customer.City == "London" || customer.City == "Berlin"
                      orderby customer.ContactName
                      select customer).ToList();
 
-                PrintCustomers(c);
+                // Print list of customers
+                PrintCustomers(customersList);
 
+                // Returns customers from 'Northwind' database and shows selected infomation, ie. name + location
                 var selected3 =
                     (from customer in db.Customers
                      select new
                      {
+                         // Returns Contact name as Name and Customer city + Country as Location
                          Name = customer.ContactName,
                          Location = customer.City + "" + customer.Country
                      }).ToList();
 
+                // Writes Location and Name
                 selected3.ForEach(c => Console.WriteLine($"{c.Location}{c.Name}"));
+
 
                 var selected4 = (from customer in db.Customers
                                  select new ModifiedCustomer(customer.ContactName, customer.City)).ToList();
@@ -121,6 +127,18 @@ namespace Lab_014_LINQ
         }
     }
 
+    #region DatabaseContextAndClasses
+
+    /* 
+     * 
+     * 1. ModifiedCustomer: 
+     *      Class template for updating an current entry in the database.
+     * 2. Customer, Category, Product: 
+     *      Classes template that mimic the table columns in the database.
+     * 3. Northwind : DBContext
+     * 
+     */
+
     class ModifiedCustomer
     {
         public string Name { get; set; }
@@ -133,9 +151,6 @@ namespace Lab_014_LINQ
         }
     }
 
-
-    #region DatabaseContextAndClasses
-    
     public partial class Customer
     {
         public string CustomerID { get; set; }
@@ -151,25 +166,25 @@ namespace Lab_014_LINQ
         public string Fax { get; set; }
     }
     
-    public class Category
+    public partial class Category
     {
+        public Category()
+        {
+            this.Products = new List<Product>();
+        }
         public int CategoryID { get; set; }
         public string CategoryName { get; set; }
         public string Description { get; set; }
         public virtual ICollection<Product> Products { get; set; }
 
-        public Category()
-        {
-            this.Products = new List<Product>();
-        }
     }
 
-    public class Product
+    public partial class Product
     {
+        public virtual Category Category { get; set; }
         public int ProductID { get; set; }
         public string ProductName { get; set; }
         public int? CategoryID { get; set; }
-        public virtual Category Category { get; set; }
         public string QuantityPerUnit { get; set; }
         public decimal? UnitPrice { get; set; } = 0;
         public short? UnitsInStock { get; set; } = 0;
@@ -177,6 +192,7 @@ namespace Lab_014_LINQ
         public short? ReorderLevel { get; set; } = 0;
         public bool Discontinued { get; set; } = false;
     }
+
 
     public class Northwind : DbContext
     {

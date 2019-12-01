@@ -8,3 +8,4 @@ C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_012_OOP_Events\bin\Debug\netcor
 C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_012_OOP_Events\bin\Debug\netcoreapp3.1\Labs_012_OOP_Events.pdb
 C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_012_OOP_Events\obj\Debug\netcoreapp3.1\Labs_012_OOP_Events.dll
 C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_012_OOP_Events\obj\Debug\netcoreapp3.1\Labs_012_OOP_Events.pdb
+C:\Users\Ross Stapleton\Engineering45b\LABS\Labs_012_OOP_Events\obj\Debug\netcoreapp3.1\Labs_012_OOP_Events.csprojAssemblyReference.cache

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29505.145
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_01_test", "Lab_01_test\Lab_01_test.csproj", "{D39EA573-8785-4833-A216-06F0AF96B959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_001_test", "Lab_01_test\Lab_001_test.csproj", "{D39EA573-8785-4833-A216-06F0AF96B959}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_002_OOP_With_Interfaces", "Lab_002_OOP_With_Interfaces\Lab_002_OOP_With_Interfaces.csproj", "{F2D09CF7-9F2A-49E8-BD87-B4A379A647F3}"
 EndProject
@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_003_OOP_All_Features", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_004_ConnectToRawSQL", "Lab_004_ConnectToRawSQL\Lab_004_ConnectToRawSQL.csproj", "{BAD2DE49-D0A2-4128-AF32-FEAF8893119C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labs_005_CRUD_App_RawSQL", "Labs_005_CRUD_App_RawSQL\Labs_005_CRUD_App_RawSQL.csproj", "{249D5110-9009-495E-9FC6-4B6071B00250}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_005_CRUD_App_RawSQL", "Labs_005_CRUD_App_RawSQL\Lab_005_CRUD_App_RawSQL.csproj", "{249D5110-9009-495E-9FC6-4B6071B00250}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labs_006_Rabbits_Init_100", "Labs_006_Rabbits_Init_100\Labs_006_Rabbits_Init_100.csproj", "{24387BCF-135F-49DD-90CB-8C86D07F99C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_006_Rabbits_Init_100", "Labs_006_Rabbits_Init_100\Lab_006_Rabbits_Init_100.csproj", "{24387BCF-135F-49DD-90CB-8C86D07F99C1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_007_NorthwindSQLite", "Lab_007_NorthwindSQLite\Lab_007_NorthwindSQLite.csproj", "{93840EEE-B040-4F57-B968-134C594BABFD}"
 EndProject
@@ -28,11 +28,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labs_010_Events", "Labs_010_Events\Labs_010_Events.csproj", "{AF1FA8D3-5ACF-4909-A12B-4B2060DD654E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_010_Events", "Labs_010_Events\Lab_010_Events.csproj", "{AF1FA8D3-5ACF-4909-A12B-4B2060DD654E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_011_Delegates", "Lab_011_Delegates\Lab_011_Delegates.csproj", "{7A4CA2D5-1CE6-406E-B6A0-5DED02253721}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labs_012_OOP_Events", "Labs_012_OOP_Events\Labs_012_OOP_Events.csproj", "{D1C3EA6F-55B9-486A-A821-931210BBDF2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_012_OOP_Events", "Labs_012_OOP_Events\Lab_012_OOP_Events.csproj", "{D1C3EA6F-55B9-486A-A821-931210BBDF2C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_013_WPF_ToDo_App", "Lab_013_WPF_ToDo_App\Lab_013_WPF_ToDo_App.csproj", "{87B09BB9-42F0-427D-97AA-97D04E053F13}"
 EndProject
@@ -40,7 +40,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_014_LINQ", "Lab_014_LIN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_015_Tasks", "Lab_015_Tasks\Lab_015_Tasks.csproj", "{80053E1A-1D01-44F5-936C-DC873479ED08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labs_016_Tasks", "Labs_016_Tasks\Labs_016_Tasks.csproj", "{C55028A1-3886-408A-BE5C-1567783567FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_016_Tasks", "Labs_016_Tasks\Lab_016_Tasks.csproj", "{C55028A1-3886-408A-BE5C-1567783567FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -112,8 +112,8 @@ Global
 		{80053E1A-1D01-44F5-936C-DC873479ED08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80053E1A-1D01-44F5-936C-DC873479ED08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80053E1A-1D01-44F5-936C-DC873479ED08}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C55028A1-3886-408A-BE5C-1567783567FB}.Debug|Any CPU.ActiveCfg = Release|Any CPU
-		{C55028A1-3886-408A-BE5C-1567783567FB}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C55028A1-3886-408A-BE5C-1567783567FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55028A1-3886-408A-BE5C-1567783567FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C55028A1-3886-408A-BE5C-1567783567FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C55028A1-3886-408A-BE5C-1567783567FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

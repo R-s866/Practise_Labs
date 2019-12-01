@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_01_test\\Lab_01_test.csproj",
-      "projectName": "Lab_01_test",
-      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_01_test\\Lab_01_test.csproj",
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_01_test\\Lab_001_test.csproj",
+      "projectName": "Lab_001_test",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_01_test\\Lab_001_test.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_01_test\\obj\\",
       "projectStyle": "PackageReference",

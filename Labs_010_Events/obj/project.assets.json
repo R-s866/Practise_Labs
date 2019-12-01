@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_010_Events\\Labs_010_Events.csproj",
-      "projectName": "Labs_010_Events",
-      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_010_Events\\Labs_010_Events.csproj",
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_010_Events\\Lab_010_Events.csproj",
+      "projectName": "Lab_010_Events",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_010_Events\\Lab_010_Events.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_010_Events\\obj\\",
       "projectStyle": "PackageReference",

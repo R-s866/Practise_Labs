@@ -1678,7 +1678,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Labs_006_Rabbits_Init_100/1.0.0": {
+      "Lab_006_Rabbits_Init_100/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1689,10 +1689,10 @@
           "RandomNameGeneratorLibrary": "1.2.2"
         },
         "compile": {
-          "bin/placeholder/Labs_006_Rabbits_Init_100.dll": {}
+          "bin/placeholder/Lab_006_Rabbits_Init_100.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Labs_006_Rabbits_Init_100.dll": {}
+          "bin/placeholder/Lab_006_Rabbits_Init_100.dll": {}
         }
       }
     }
@@ -5824,15 +5824,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Labs_006_Rabbits_Init_100/1.0.0": {
+    "Lab_006_Rabbits_Init_100/1.0.0": {
       "type": "project",
-      "path": "../Labs_006_Rabbits_Init_100/Labs_006_Rabbits_Init_100.csproj",
-      "msbuildProject": "../Labs_006_Rabbits_Init_100/Labs_006_Rabbits_Init_100.csproj"
+      "path": "../Labs_006_Rabbits_Init_100/Lab_006_Rabbits_Init_100.csproj",
+      "msbuildProject": "../Labs_006_Rabbits_Init_100/Lab_006_Rabbits_Init_100.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Labs_006_Rabbits_Init_100 >= 1.0.0"
+      "Lab_006_Rabbits_Init_100 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5868,8 +5868,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_006_Rabbits_Init_100\\Labs_006_Rabbits_Init_100.csproj": {
-              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_006_Rabbits_Init_100\\Labs_006_Rabbits_Init_100.csproj"
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj"
             }
           }
         }

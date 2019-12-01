@@ -4,9 +4,11 @@ namespace Lab_01_test
 {
     class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Initiates a new 'Mammal' class
+            Mammal mammal = new Mammal();
         }
 
     }

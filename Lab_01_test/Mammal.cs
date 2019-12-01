@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Lab_01_test
 {
+    // 'Mammal' base class with 4 properties
     class Mammal
     {
         public bool IsWarmBlooded { get; set; } = true;
