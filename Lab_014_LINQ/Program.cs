@@ -139,6 +139,26 @@ namespace Lab_014_LINQ
      * 
      */
 
+    public class NorthwindDb
+    {
+        public int CountNorthwind(string city)
+        {
+            using (var db = new Northwind())
+            {
+                if (city == null)
+                {
+                    return db.Customers.Count();
+                }
+                else
+                {
+                    int onlyLondon = db.Customers.Where(c => c.City.Contains("London")).Count();
+
+                    return onlyLondon;
+                }
+            }
+        }
+    }
+
     class ModifiedCustomer
     {
         public string Name { get; set; }

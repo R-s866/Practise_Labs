@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Lab_009_Rabbit_Test/1.0.0": {
         "dependencies": {
-          "Labs_006_Rabbits_Init_100": "1.0.0"
+          "Lab_006_Rabbits_Init_100": "1.0.0"
         },
         "runtime": {
           "Lab_009_Rabbit_Test.dll": {}
@@ -1120,7 +1120,7 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
-      "Labs_006_Rabbits_Init_100/1.0.0": {
+      "Lab_006_Rabbits_Init_100/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.1.1",
           "Microsoft.EntityFrameworkCore.Design": "2.1.1",
@@ -1129,7 +1129,7 @@
           "RandomNameGeneratorLibrary": "1.2.2"
         },
         "runtime": {
-          "Labs_006_Rabbits_Init_100.dll": {}
+          "Lab_006_Rabbits_Init_100.dll": {}
         }
       }
     }
@@ -1875,7 +1875,7 @@
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
-    "Labs_006_Rabbits_Init_100/1.0.0": {
+    "Lab_006_Rabbits_Init_100/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

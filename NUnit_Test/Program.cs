@@ -4,6 +4,7 @@ using NUnit.Compatibility;
 using Lab_008_TDD_Collections;
 using Lab_009_Rabbit_Test;
 using System.Security.Cryptography;
+using Lab_014_LINQ;
 
 namespace NUnit_Test
 {
@@ -54,6 +55,19 @@ namespace NUnit_Test
             Assert.AreEqual(expectAgeTotal, ageTotal);
             Assert.AreEqual(rabbitCount, actualRabbitCount);
         }
+
+        #region Test Number Pf Northwind Customers
+
+        [TestCase(null, 103)]
+        [TestCase("London", 18)]
+        public void TestNumberOfNorthwindCustomers(string city, int expected)
+        {
+            var n = new NorthwindDb();
+
+            Assert.AreEqual(expected, n.CountNorthwind(city));
+        }
+
+        #endregion
 
     }
 }
