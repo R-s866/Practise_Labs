@@ -8,3 +8,14 @@ C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_011_Delegates\obj\Debug\netcorea
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_011_Delegates\obj\Debug\netcoreapp3.1\Lab_011_Delegates.AssemblyInfo.cs
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_011_Delegates\obj\Debug\netcoreapp3.1\Lab_011_Delegates.dll
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_011_Delegates\obj\Debug\netcoreapp3.1\Lab_011_Delegates.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\bin\Debug\netcoreapp3.1\Lab_011_Delegates.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\bin\Debug\netcoreapp3.1\Lab_011_Delegates.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\bin\Debug\netcoreapp3.1\Lab_011_Delegates.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\bin\Debug\netcoreapp3.1\Lab_011_Delegates.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\bin\Debug\netcoreapp3.1\Lab_011_Delegates.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\bin\Debug\netcoreapp3.1\Lab_011_Delegates.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\obj\Debug\netcoreapp3.1\Lab_011_Delegates.csprojAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\obj\Debug\netcoreapp3.1\Lab_011_Delegates.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\obj\Debug\netcoreapp3.1\Lab_011_Delegates.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\obj\Debug\netcoreapp3.1\Lab_011_Delegates.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_011_Delegates\obj\Debug\netcoreapp3.1\Lab_011_Delegates.pdb

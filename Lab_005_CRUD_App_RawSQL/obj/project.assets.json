@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_005_CRUD_App_RawSQL\\Lab_005_CRUD_App_RawSQL.csproj",
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_005_CRUD_App_RawSQL\\Lab_005_CRUD_App_RawSQL.csproj",
       "projectName": "Lab_005_CRUD_App_RawSQL",
-      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_005_CRUD_App_RawSQL\\Lab_005_CRUD_App_RawSQL.csproj",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_005_CRUD_App_RawSQL\\Lab_005_CRUD_App_RawSQL.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_005_CRUD_App_RawSQL\\obj\\",
+      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_005_CRUD_App_RawSQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

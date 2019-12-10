@@ -5688,11 +5688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_007_NorthwindSQLite\\Lab_007_NorthwindSQLite.csproj",
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_007_NorthwindSQLite\\Lab_007_NorthwindSQLite.csproj",
       "projectName": "Lab_007_NorthwindSQLite",
-      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_007_NorthwindSQLite\\Lab_007_NorthwindSQLite.csproj",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_007_NorthwindSQLite\\Lab_007_NorthwindSQLite.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_007_NorthwindSQLite\\obj\\",
+      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_007_NorthwindSQLite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,0 +1,10 @@
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\bin\Debug\netcoreapp3.1\Lab_010_Events.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\bin\Debug\netcoreapp3.1\Lab_010_Events.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\bin\Debug\netcoreapp3.1\Lab_010_Events.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\bin\Debug\netcoreapp3.1\Lab_010_Events.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\bin\Debug\netcoreapp3.1\Lab_010_Events.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\bin\Debug\netcoreapp3.1\Lab_010_Events.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\obj\Debug\netcoreapp3.1\Lab_010_Events.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\obj\Debug\netcoreapp3.1\Lab_010_Events.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\obj\Debug\netcoreapp3.1\Lab_010_Events.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_010_Events\obj\Debug\netcoreapp3.1\Lab_010_Events.pdb

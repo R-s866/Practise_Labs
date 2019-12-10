@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 using System.Globalization;
 using System.Text;
 
-namespace Labs_005_CRUD_App_RawSQL
+namespace Lab_005_CRUD_App_RawSQL
 {
 	#region Summary
 

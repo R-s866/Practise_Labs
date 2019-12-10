@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lab_01_test
+namespace Lab_001_Test
 {
     // 'Mammal' base class with 4 properties
     class Mammal

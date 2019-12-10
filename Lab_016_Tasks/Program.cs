@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Labs_016_Tasks
+namespace Lab_016_Tasks
 {
     class Program
     {

@@ -16,6 +16,8 @@
 
   <ItemGroup>
 
+    <ProjectReference Include="..\..\..\..\source\repos\Lab_018_Streamin\Lab_020_Northwind_Product\Lab_020_Northwind_Product.csproj" />
+
     <ProjectReference Include="..\Lab_008_TDD_Collections\Lab_008_TDD_Collections.csproj" />
 
     <ProjectReference Include="..\Lab_009_Rabbit_Test\Lab_009_Rabbit_Test.csproj" />
@@ -23,6 +25,8 @@
     <ProjectReference Include="..\Lab_014_LINQ\Lab_014_LINQ.csproj" />
 
     <ProjectReference Include="..\Lab_017_NorthwindDb_Test\Lab_017_NorthwindDb_Test.csproj" />
+
+    <ProjectReference Include="..\Lab_026_Fibibacci\Lab_026_Fibibacci.csproj" />
 
   </ItemGroup>
 

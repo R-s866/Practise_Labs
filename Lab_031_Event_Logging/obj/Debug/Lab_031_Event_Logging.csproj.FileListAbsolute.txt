@@ -1,0 +1,6 @@
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_031_Event_Logging\bin\Debug\Lab_031_Event_Logging.exe.config
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_031_Event_Logging\bin\Debug\Lab_031_Event_Logging.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_031_Event_Logging\bin\Debug\Lab_031_Event_Logging.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_031_Event_Logging\obj\Debug\Lab_031_Event_Logging.csprojAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_031_Event_Logging\obj\Debug\Lab_031_Event_Logging.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_031_Event_Logging\obj\Debug\Lab_031_Event_Logging.pdb

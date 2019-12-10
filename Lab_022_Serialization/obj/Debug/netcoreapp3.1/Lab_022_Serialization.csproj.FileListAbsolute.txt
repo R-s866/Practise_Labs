@@ -1,0 +1,13 @@
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\bin\Debug\netcoreapp3.1\Lab_022_Serialization.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\obj\Debug\netcoreapp3.1\Lab_022_Serialization.csprojAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\obj\Debug\netcoreapp3.1\Lab_022_Serialization.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\obj\Debug\netcoreapp3.1\Lab_022_Serialization.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\bin\Debug\netcoreapp3.1\Lab_022_Serialization.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\bin\Debug\netcoreapp3.1\Lab_022_Serialization.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\bin\Debug\netcoreapp3.1\Lab_022_Serialization.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\bin\Debug\netcoreapp3.1\Lab_022_Serialization.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\bin\Debug\netcoreapp3.1\Lab_022_Serialization.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\bin\Debug\netcoreapp3.1\SoapFormatter.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\obj\Debug\netcoreapp3.1\Lab_022_Serialization.csproj.CopyComplete
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\obj\Debug\netcoreapp3.1\Lab_022_Serialization.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_022_Serialization\obj\Debug\netcoreapp3.1\Lab_022_Serialization.pdb

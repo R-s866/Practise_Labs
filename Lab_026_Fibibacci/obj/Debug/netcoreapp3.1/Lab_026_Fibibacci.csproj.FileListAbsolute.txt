@@ -1,0 +1,10 @@
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\bin\Debug\netcoreapp3.1\Lab_026_Fibibacci.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\bin\Debug\netcoreapp3.1\Lab_026_Fibibacci.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\bin\Debug\netcoreapp3.1\Lab_026_Fibibacci.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\bin\Debug\netcoreapp3.1\Lab_026_Fibibacci.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\bin\Debug\netcoreapp3.1\Lab_026_Fibibacci.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\bin\Debug\netcoreapp3.1\Lab_026_Fibibacci.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\obj\Debug\netcoreapp3.1\Lab_026_Fibibacci.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\obj\Debug\netcoreapp3.1\Lab_026_Fibibacci.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\obj\Debug\netcoreapp3.1\Lab_026_Fibibacci.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_026_Fibibacci\obj\Debug\netcoreapp3.1\Lab_026_Fibibacci.pdb

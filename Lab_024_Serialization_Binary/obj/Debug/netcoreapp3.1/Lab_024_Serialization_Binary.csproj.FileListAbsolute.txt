@@ -1,0 +1,16 @@
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_023_Serialization_JSON.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_023_Serialization_JSON.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\bin\Debug\netcoreapp3.1\Lab_023_Serialization_JSON.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.csprojAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.csproj.CopyComplete
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_024_Serialization_Binary\obj\Debug\netcoreapp3.1\Lab_024_Serialization_Binary.pdb

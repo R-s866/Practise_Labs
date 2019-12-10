@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Labs_010_Events
+namespace Lab_010_Events
 {
     class Program
     {

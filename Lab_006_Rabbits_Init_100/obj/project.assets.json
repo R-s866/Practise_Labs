@@ -5825,11 +5825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj",
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj",
       "projectName": "Lab_006_Rabbits_Init_100",
-      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Labs_006_Rabbits_Init_100\\obj\\",
+      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_006_Rabbits_Init_100\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

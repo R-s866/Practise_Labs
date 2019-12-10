@@ -9,3 +9,14 @@ C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_008_TDD_Collections\obj\Debug\ne
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_008_TDD_Collections\obj\Debug\netcoreapp3.1\Lab_008_TDD_Collections.dll
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_008_TDD_Collections\obj\Debug\netcoreapp3.1\Lab_008_TDD_Collections.pdb
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_008_TDD_Collections\obj\Debug\netcoreapp3.1\Lab_008_TDD_Collections.csprojAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\bin\Debug\netcoreapp3.1\Lab_008_TDD_Collections.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\bin\Debug\netcoreapp3.1\Lab_008_TDD_Collections.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\bin\Debug\netcoreapp3.1\Lab_008_TDD_Collections.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\bin\Debug\netcoreapp3.1\Lab_008_TDD_Collections.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\bin\Debug\netcoreapp3.1\Lab_008_TDD_Collections.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\bin\Debug\netcoreapp3.1\Lab_008_TDD_Collections.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\obj\Debug\netcoreapp3.1\Lab_008_TDD_Collections.csprojAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\obj\Debug\netcoreapp3.1\Lab_008_TDD_Collections.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\obj\Debug\netcoreapp3.1\Lab_008_TDD_Collections.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\obj\Debug\netcoreapp3.1\Lab_008_TDD_Collections.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_008_TDD_Collections\obj\Debug\netcoreapp3.1\Lab_008_TDD_Collections.pdb

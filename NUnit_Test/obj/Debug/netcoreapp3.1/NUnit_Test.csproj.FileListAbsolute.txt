@@ -163,3 +163,5 @@ C:\Users\Ross Stapleton\Engineering45b\LABS\NUnit_Test\bin\Debug\netcoreapp3.1\r
 C:\Users\Ross Stapleton\Engineering45b\LABS\NUnit_Test\bin\Debug\netcoreapp3.1\Lab_014_LINQ.exe
 C:\Users\Ross Stapleton\Engineering45b\LABS\NUnit_Test\bin\Debug\netcoreapp3.1\Lab_014_LINQ.dll
 C:\Users\Ross Stapleton\Engineering45b\LABS\NUnit_Test\bin\Debug\netcoreapp3.1\Lab_014_LINQ.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\NUnit_Test\obj\Debug\netcoreapp3.1\NUnit_Test.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\NUnit_Test\obj\Debug\netcoreapp3.1\NUnit_Test.pdb

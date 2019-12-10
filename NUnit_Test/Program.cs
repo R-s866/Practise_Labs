@@ -4,7 +4,9 @@ using NUnit.Compatibility;
 using Lab_008_TDD_Collections;
 using Lab_009_Rabbit_Test;
 using System.Security.Cryptography;
+using Lab_020_Northwind_Product;
 using Lab_014_LINQ;
+using Lab_026_Fibibacci;
 
 namespace NUnit_Test
 {
@@ -62,9 +64,50 @@ namespace NUnit_Test
         [TestCase("London", 18)]
         public void TestNumberOfNorthwindCustomers(string city, int expected)
         {
-            var n = new NorthwindDb();
+            var n = new Lab_014_LINQ.NorthwindDb();
 
             Assert.AreEqual(expected, n.CountNorthwind(city));
+        }
+
+        #endregion
+
+        #region Test Number Of Products
+
+        [TestCase(3)]
+        public void TestNumberOfProductsBeginingWithP(int expected)
+        {
+            Products p = new Products();
+            int actual = p.GetProduct();
+            Assert.AreEqual(expected, actual);
+        }
+        [TestCase("P", 3)]
+        public void TestNumberOfProductsBeginingWithALetter(string s, int expected)
+        {
+            Products p = new Products();
+            int actual = p.GetProductWithLetter(s);
+            Assert.AreEqual(expected, actual);
+        }
+        [TestCase("P", 17)]
+        [TestCase("A", 58)]
+        [TestCase("H", 27)]
+        public void TestNumberOfProductsContainsALetter(string s, int expected)
+        {
+            Products p = new Products();
+            int actual = p.GetProductContainsLetter(s);
+            Assert.AreEqual(expected, actual);
+        }
+
+        #endregion
+
+        #region Fibonacci Tests
+
+        [TestCase(3,3)]
+        [TestCase(4,5)]
+        [TestCase(5,7)]
+        public void TestNthFibSequance(int i, int expected)
+        {
+
+            Assert.AreEqual(expected, Fibobacci.ReturnFibonacciNthItemInSequenece(i));
         }
 
         #endregion

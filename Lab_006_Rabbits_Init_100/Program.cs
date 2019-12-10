@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using RandomNameGeneratorLibrary;
 
-namespace Labs_006_Rabbits_Init_100
+namespace Lab_006_Rabbits_Init_100
 {
 	#region Summary
 

@@ -1,0 +1,11 @@
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\bin\Debug\netcoreapp3.1\Lab_021_Async_Await.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\bin\Debug\netcoreapp3.1\Lab_021_Async_Await.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\bin\Debug\netcoreapp3.1\Lab_021_Async_Await.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\bin\Debug\netcoreapp3.1\Lab_021_Async_Await.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\bin\Debug\netcoreapp3.1\Lab_021_Async_Await.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\bin\Debug\netcoreapp3.1\Lab_021_Async_Await.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\obj\Debug\netcoreapp3.1\Lab_021_Async_Await.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\obj\Debug\netcoreapp3.1\Lab_021_Async_Await.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\obj\Debug\netcoreapp3.1\Lab_021_Async_Await.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\obj\Debug\netcoreapp3.1\Lab_021_Async_Await.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_021_Async_Await\obj\Debug\netcoreapp3.1\Lab_021_Async_Await.csprojAssemblyReference.cache

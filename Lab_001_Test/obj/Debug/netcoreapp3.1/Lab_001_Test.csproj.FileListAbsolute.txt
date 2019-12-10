@@ -1,0 +1,10 @@
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\bin\Debug\netcoreapp3.1\Lab_001_Test.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\bin\Debug\netcoreapp3.1\Lab_001_Test.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\bin\Debug\netcoreapp3.1\Lab_001_Test.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\bin\Debug\netcoreapp3.1\Lab_001_Test.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\bin\Debug\netcoreapp3.1\Lab_001_Test.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\bin\Debug\netcoreapp3.1\Lab_001_Test.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\obj\Debug\netcoreapp3.1\Lab_001_Test.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\obj\Debug\netcoreapp3.1\Lab_001_Test.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\obj\Debug\netcoreapp3.1\Lab_001_Test.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_001_Test\obj\Debug\netcoreapp3.1\Lab_001_Test.pdb

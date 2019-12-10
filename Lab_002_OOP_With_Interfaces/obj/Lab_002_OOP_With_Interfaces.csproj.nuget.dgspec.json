@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_002_OOP_With_Interfaces\\Lab_002_OOP_With_Interfaces.csproj": {}
+    "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_002_OOP_With_Interfaces\\Lab_002_OOP_With_Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_002_OOP_With_Interfaces\\Lab_002_OOP_With_Interfaces.csproj": {
+    "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_002_OOP_With_Interfaces\\Lab_002_OOP_With_Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_002_OOP_With_Interfaces\\Lab_002_OOP_With_Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_002_OOP_With_Interfaces\\Lab_002_OOP_With_Interfaces.csproj",
         "projectName": "Lab_002_OOP_With_Interfaces",
-        "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_002_OOP_With_Interfaces\\Lab_002_OOP_With_Interfaces.csproj",
+        "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_002_OOP_With_Interfaces\\Lab_002_OOP_With_Interfaces.csproj",
         "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_002_OOP_With_Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_002_OOP_With_Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

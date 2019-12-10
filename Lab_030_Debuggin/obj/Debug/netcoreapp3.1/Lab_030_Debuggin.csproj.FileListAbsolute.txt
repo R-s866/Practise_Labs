@@ -1,0 +1,11 @@
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\bin\Debug\netcoreapp3.1\Lab_030_Debuggin.exe
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\bin\Debug\netcoreapp3.1\Lab_030_Debuggin.deps.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\bin\Debug\netcoreapp3.1\Lab_030_Debuggin.runtimeconfig.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\bin\Debug\netcoreapp3.1\Lab_030_Debuggin.runtimeconfig.dev.json
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\bin\Debug\netcoreapp3.1\Lab_030_Debuggin.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\bin\Debug\netcoreapp3.1\Lab_030_Debuggin.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\obj\Debug\netcoreapp3.1\Lab_030_Debuggin.csprojAssemblyReference.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\obj\Debug\netcoreapp3.1\Lab_030_Debuggin.AssemblyInfoInputs.cache
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\obj\Debug\netcoreapp3.1\Lab_030_Debuggin.AssemblyInfo.cs
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\obj\Debug\netcoreapp3.1\Lab_030_Debuggin.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_030_Debuggin\obj\Debug\netcoreapp3.1\Lab_030_Debuggin.pdb

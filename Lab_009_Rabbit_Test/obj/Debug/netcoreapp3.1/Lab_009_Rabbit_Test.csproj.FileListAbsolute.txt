@@ -54,3 +54,5 @@ C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_009_Rabbit_Test\bin\Debug\netcor
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_009_Rabbit_Test\obj\Debug\netcoreapp3.1\Lab_009_Rabbit_Test.csproj.CopyComplete
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_009_Rabbit_Test\bin\Debug\netcoreapp3.1\Lab_006_Rabbits_Init_100.dll
 C:\Users\Ross Stapleton\Engineering45b\LABS\Lab_009_Rabbit_Test\bin\Debug\netcoreapp3.1\Lab_006_Rabbits_Init_100.pdb
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_009_Rabbit_Test\obj\Debug\netcoreapp3.1\Lab_009_Rabbit_Test.dll
+C:\Users\Ross Stapleton\Engineering45b\PractiseLabs\Practise_Labs\Lab_009_Rabbit_Test\obj\Debug\netcoreapp3.1\Lab_009_Rabbit_Test.pdb
