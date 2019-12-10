@@ -46,18 +46,6 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-      "Microsoft.Data.Sqlite.Core/2.1.0": {
-        "type": "package",
-        "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
-        },
-        "compile": {
-          "lib/netstandard2.0/Microsoft.Data.Sqlite.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Data.Sqlite.dll": {}
-        }
-      },
       "Microsoft.DotNet.InternalAbstractions/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -136,32 +124,6 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll": {}
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Sqlite/2.1.1": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Sqlite.Core": "2.1.1",
-          "SQLitePCLRaw.bundle_green": "1.1.11"
-        },
-        "compile": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/_._": {}
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Sqlite.Core/2.1.1": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Data.Sqlite.Core": "2.1.0",
-          "Microsoft.EntityFrameworkCore.Relational": "2.1.1"
-        },
-        "compile": {
-          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Sqlite.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Sqlite.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore.SqlServer/2.1.1": {
@@ -725,18 +687,6 @@
           "build/netcoreapp2.0/NUnit3TestAdapter.props": {}
         }
       },
-      "RandomNameGeneratorLibrary/1.2.2": {
-        "type": "package",
-        "dependencies": {
-          "NETStandard.Library": "1.6.0"
-        },
-        "compile": {
-          "lib/netstandard1.6/RandomNameGeneratorLibrary.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.6/RandomNameGeneratorLibrary.dll": {}
-        }
-      },
       "Remotion.Linq/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -805,126 +755,6 @@
             "assetType": "native",
             "rid": "win-x86"
           }
-        }
-      },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
-        "type": "package",
-        "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.lib.e_sqlite3.linux": "1.1.11",
-          "SQLitePCLRaw.lib.e_sqlite3.osx": "1.1.11",
-          "SQLitePCLRaw.lib.e_sqlite3.v110_xp": "1.1.11",
-          "SQLitePCLRaw.provider.e_sqlite3.netstandard11": "1.1.11"
-        },
-        "compile": {
-          "lib/netcoreapp/SQLitePCLRaw.batteries_green.dll": {},
-          "lib/netcoreapp/SQLitePCLRaw.batteries_v2.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp/SQLitePCLRaw.batteries_green.dll": {},
-          "lib/netcoreapp/SQLitePCLRaw.batteries_v2.dll": {}
-        }
-      },
-      "SQLitePCLRaw.core/1.1.11": {
-        "type": "package",
-        "dependencies": {
-          "NETStandard.Library": "1.6.0"
-        },
-        "compile": {
-          "lib/netstandard1.1/SQLitePCLRaw.core.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.1/SQLitePCLRaw.core.dll": {}
-        }
-      },
-      "SQLitePCLRaw.lib.e_sqlite3.linux/1.1.11": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/alpine-x64/native/libe_sqlite3.so": {
-            "assetType": "native",
-            "rid": "alpine-x64"
-          },
-          "runtimes/linux-arm/native/libe_sqlite3.so": {
-            "assetType": "native",
-            "rid": "linux-arm"
-          },
-          "runtimes/linux-arm64/native/libe_sqlite3.so": {
-            "assetType": "native",
-            "rid": "linux-arm64"
-          },
-          "runtimes/linux-armel/native/libe_sqlite3.so": {
-            "assetType": "native",
-            "rid": "linux-armel"
-          },
-          "runtimes/linux-musl-x64/native/libe_sqlite3.so": {
-            "assetType": "native",
-            "rid": "linux-musl-x64"
-          },
-          "runtimes/linux-x64/native/libe_sqlite3.so": {
-            "assetType": "native",
-            "rid": "linux-x64"
-          },
-          "runtimes/linux-x86/native/libe_sqlite3.so": {
-            "assetType": "native",
-            "rid": "linux-x86"
-          }
-        }
-      },
-      "SQLitePCLRaw.lib.e_sqlite3.osx/1.1.11": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/osx-x64/native/libe_sqlite3.dylib": {
-            "assetType": "native",
-            "rid": "osx-x64"
-          }
-        }
-      },
-      "SQLitePCLRaw.lib.e_sqlite3.v110_xp/1.1.11": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/win-x64/native/e_sqlite3.dll": {
-            "assetType": "native",
-            "rid": "win-x64"
-          },
-          "runtimes/win-x86/native/e_sqlite3.dll": {
-            "assetType": "native",
-            "rid": "win-x86"
-          },
-          "runtimes/win8-arm/native/e_sqlite3.dll": {
-            "assetType": "native",
-            "rid": "win8-arm"
-          }
-        }
-      },
-      "SQLitePCLRaw.provider.e_sqlite3.netstandard11/1.1.11": {
-        "type": "package",
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "SQLitePCLRaw.core": "1.1.11"
-        },
-        "compile": {
-          "lib/netstandard1.1/SQLitePCLRaw.provider.e_sqlite3.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.1/SQLitePCLRaw.provider.e_sqlite3.dll": {}
         }
       },
       "System.AppContext/4.1.0": {
@@ -1911,23 +1741,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Lab_006_Rabbits_Init_100/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "2.1.1",
-          "Microsoft.EntityFrameworkCore.Design": "2.1.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1",
-          "Microsoft.EntityFrameworkCore.Sqlite": "2.1.1",
-          "RandomNameGeneratorLibrary": "1.2.2"
-        },
-        "compile": {
-          "bin/placeholder/Lab_006_Rabbits_Init_100.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Lab_006_Rabbits_Init_100.dll": {}
-        }
-      },
       "Lab_008_TDD_Collections/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1942,7 +1755,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Lab_006_Rabbits_Init_100": "1.0.0"
+          "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Lab_009_Rabbit_Test.dll": {}
@@ -2134,19 +1947,6 @@
         "version.txt"
       ]
     },
-    "Microsoft.Data.Sqlite.Core/2.1.0": {
-      "sha512": "VJ0kOuf3wp9xyarhBla0JJlwdxz28g09rI4NP8ly8I8/ZhrOZZLtlYvjiMZAPNm0+45+dZ+VXUiO7n4IrP52Zw==",
-      "type": "package",
-      "path": "microsoft.data.sqlite.core/2.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/Microsoft.Data.Sqlite.dll",
-        "lib/netstandard2.0/Microsoft.Data.Sqlite.xml",
-        "microsoft.data.sqlite.core.2.1.0.nupkg.sha512",
-        "microsoft.data.sqlite.core.nuspec"
-      ]
-    },
     "Microsoft.DotNet.InternalAbstractions/1.0.0": {
       "sha512": "AAguUq7YyKk3yDWPoWA8DrLZvURxB/LrDdTn1h5lmPeznkFUpfC3p459w5mQYQE0qpquf/CkSQZ0etiV5vRHFA==",
       "type": "package",
@@ -2226,31 +2026,6 @@
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.xml",
         "microsoft.entityframeworkcore.relational.2.1.1.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
-      ]
-    },
-    "Microsoft.EntityFrameworkCore.Sqlite/2.1.1": {
-      "sha512": "rv4J+Ad/dIV2ZqZaGtzWrn4DK93OL/I8aB1O7kzewL4rXwCjjHuBiY2hn1wtXoXx4nY41O6sBUXb0j0iLbNodg==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlite/2.1.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.sqlite.2.1.1.nupkg.sha512",
-        "microsoft.entityframeworkcore.sqlite.nuspec"
-      ]
-    },
-    "Microsoft.EntityFrameworkCore.Sqlite.Core/2.1.1": {
-      "sha512": "EU7Bualo91YkF5MoKdgnEKgJUOyajCKv4xOERWCoR34VmNeajQZk3tZHDVOlw2Xx/aTeRI+ktM20LyWdhBEk2A==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlite.core/2.1.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Sqlite.dll",
-        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Sqlite.xml",
-        "microsoft.entityframeworkcore.sqlite.core.2.1.1.nupkg.sha512",
-        "microsoft.entityframeworkcore.sqlite.core.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.SqlServer/2.1.1": {
@@ -3057,19 +2832,6 @@
         "nunit3testadapter.nuspec"
       ]
     },
-    "RandomNameGeneratorLibrary/1.2.2": {
-      "sha512": "Sz9eseIDKZ99yopg4TEAGPVIoGOKWYsWDHIfGQENXlOJYBoIsL68rqe9jrc9yP+/dOYH5RaCag6d8ykaqsbFFw==",
-      "type": "package",
-      "path": "randomnamegeneratorlibrary/1.2.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net40/RandomNameGeneratorLibrary.dll",
-        "lib/netstandard1.6/RandomNameGeneratorLibrary.dll",
-        "randomnamegeneratorlibrary.1.2.2.nupkg.sha512",
-        "randomnamegeneratorlibrary.nuspec"
-      ]
-    },
     "Remotion.Linq/2.2.0": {
       "sha512": "fK/76UmpC0FXBlGDFVPLJHQlDLYnGC+XY3eoDgCgbtrhi0vzbXDQ3n/IYHhqSKqXQfGw/u04A1drWs7rFVkRjw==",
       "type": "package",
@@ -3166,149 +2928,6 @@
         "runtimes/win-x86/native/sni.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
-      ]
-    },
-    "SQLitePCLRaw.bundle_green/1.1.11": {
-      "sha512": "Hqp8IF/RLjbypkLm+t+1RqAX8EKuWEkj7wkLXplfENQoPnE127cvTmaDvaQKtt7a5QsD/HNjFDr1z5f9q2wdPg==",
-      "type": "package",
-      "path": "sqlitepclraw.bundle_green/1.1.11",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/wp8/SQLitePCLRaw.bundle_green.targets",
-        "build/wp80/arm/SQLitePCLRaw.batteries_green.dll",
-        "build/wp80/arm/SQLitePCLRaw.batteries_v2.dll",
-        "build/wp80/x86/SQLitePCLRaw.batteries_green.dll",
-        "build/wp80/x86/SQLitePCLRaw.batteries_v2.dll",
-        "lib/MonoAndroid/SQLitePCLRaw.batteries_green.dll",
-        "lib/MonoAndroid/SQLitePCLRaw.batteries_v2.dll",
-        "lib/Xamarin.Mac20/SQLitePCLRaw.batteries_green.dll",
-        "lib/Xamarin.Mac20/SQLitePCLRaw.batteries_v2.dll",
-        "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll",
-        "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll",
-        "lib/net35/SQLitePCLRaw.batteries_green.dll",
-        "lib/net35/SQLitePCLRaw.batteries_v2.dll",
-        "lib/net40/SQLitePCLRaw.batteries_green.dll",
-        "lib/net40/SQLitePCLRaw.batteries_v2.dll",
-        "lib/net45/SQLitePCLRaw.batteries_green.dll",
-        "lib/net45/SQLitePCLRaw.batteries_v2.dll",
-        "lib/netcoreapp/SQLitePCLRaw.batteries_green.dll",
-        "lib/netcoreapp/SQLitePCLRaw.batteries_v2.dll",
-        "lib/netstandard1.1/SQLitePCLRaw.batteries_green.dll",
-        "lib/netstandard1.1/SQLitePCLRaw.batteries_v2.dll",
-        "lib/portable-net40+sl5+netcore45+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll",
-        "lib/portable-net40+sl5+netcore45+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll",
-        "lib/portable-net45+netcore45+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll",
-        "lib/portable-net45+netcore45+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll",
-        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll",
-        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll",
-        "lib/uap10.0/SQLitePCLRaw.batteries_green.dll",
-        "lib/uap10.0/SQLitePCLRaw.batteries_v2.dll",
-        "lib/win8/SQLitePCLRaw.batteries_green.dll",
-        "lib/win8/SQLitePCLRaw.batteries_v2.dll",
-        "lib/win81/SQLitePCLRaw.batteries_green.dll",
-        "lib/win81/SQLitePCLRaw.batteries_v2.dll",
-        "lib/wp8/_._",
-        "lib/wpa81/SQLitePCLRaw.batteries_green.dll",
-        "lib/wpa81/SQLitePCLRaw.batteries_v2.dll",
-        "sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
-        "sqlitepclraw.bundle_green.nuspec"
-      ]
-    },
-    "SQLitePCLRaw.core/1.1.11": {
-      "sha512": "QT17CyQAQIbTCu6pW5+uVA8BXqRzquiDI1tr5Un6c1YZcQydPmGPuYYng9xMs2UHUDYHbTu+JDkp55WR+qo9bQ==",
-      "type": "package",
-      "path": "sqlitepclraw.core/1.1.11",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/MonoAndroid/SQLitePCLRaw.core.dll",
-        "lib/Xamarin.Mac20/SQLitePCLRaw.core.dll",
-        "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll",
-        "lib/net35/SQLitePCLRaw.core.dll",
-        "lib/net40/SQLitePCLRaw.core.dll",
-        "lib/net45/SQLitePCLRaw.core.dll",
-        "lib/netstandard1.0/SQLitePCLRaw.core.dll",
-        "lib/netstandard1.1/SQLitePCLRaw.core.dll",
-        "lib/portable-net40+sl5+netcore45+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.core.dll",
-        "lib/portable-net45+netcore45+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.core.dll",
-        "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLitePCLRaw.core.dll",
-        "lib/uap10.0/SQLitePCLRaw.core.dll",
-        "lib/win8/SQLitePCLRaw.core.dll",
-        "lib/win81/SQLitePCLRaw.core.dll",
-        "lib/wpa81/SQLitePCLRaw.core.dll",
-        "sqlitepclraw.core.1.1.11.nupkg.sha512",
-        "sqlitepclraw.core.nuspec"
-      ]
-    },
-    "SQLitePCLRaw.lib.e_sqlite3.linux/1.1.11": {
-      "sha512": "yt79OujiYBueEUdhTQI+fIdmRpFEGcaMLziSCfhG2dsAERDvCQ+FB5tQgZBdFkB2kmVl0llskzBtwSbg3WEIdQ==",
-      "type": "package",
-      "path": "sqlitepclraw.lib.e_sqlite3.linux/1.1.11",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/net35/SQLitePCLRaw.lib.e_sqlite3.linux.targets",
-        "lib/net35/_._",
-        "lib/netstandard1.0/_._",
-        "lib/netstandard2.0/_._",
-        "runtimes/alpine-x64/native/libe_sqlite3.so",
-        "runtimes/linux-arm/native/libe_sqlite3.so",
-        "runtimes/linux-arm64/native/libe_sqlite3.so",
-        "runtimes/linux-armel/native/libe_sqlite3.so",
-        "runtimes/linux-musl-x64/native/libe_sqlite3.so",
-        "runtimes/linux-x64/native/libe_sqlite3.so",
-        "runtimes/linux-x86/native/libe_sqlite3.so",
-        "sqlitepclraw.lib.e_sqlite3.linux.1.1.11.nupkg.sha512",
-        "sqlitepclraw.lib.e_sqlite3.linux.nuspec"
-      ]
-    },
-    "SQLitePCLRaw.lib.e_sqlite3.osx/1.1.11": {
-      "sha512": "o6rxxAFS5Hya6AXCA/eU+1QqwpGVHJBaJjIG+Mui3kIqcV6d+qz0zi46i1QNK6TAel8Sj4QlXO85wNPN70BMEg==",
-      "type": "package",
-      "path": "sqlitepclraw.lib.e_sqlite3.osx/1.1.11",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/Xamarin.Mac20/SQLitePCLRaw.lib.e_sqlite3.osx.targets",
-        "build/net35/SQLitePCLRaw.lib.e_sqlite3.osx.targets",
-        "lib/Xamarin.Mac20/_._",
-        "lib/net35/_._",
-        "lib/netstandard1.0/_._",
-        "lib/netstandard2.0/_._",
-        "runtimes/osx-x64/native/libe_sqlite3.dylib",
-        "sqlitepclraw.lib.e_sqlite3.osx.1.1.11.nupkg.sha512",
-        "sqlitepclraw.lib.e_sqlite3.osx.nuspec"
-      ]
-    },
-    "SQLitePCLRaw.lib.e_sqlite3.v110_xp/1.1.11": {
-      "sha512": "h1Jng85sdFV/IC+Lri+buN1r5Kd0kgh0lh/pc4jlHd3tljZhc2Si2GW1VD0hJc4p/P4oSVa2426hBAi1y6/goA==",
-      "type": "package",
-      "path": "sqlitepclraw.lib.e_sqlite3.v110_xp/1.1.11",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/net35/SQLitePCLRaw.lib.e_sqlite3.v110_xp.targets",
-        "lib/net35/_._",
-        "lib/netstandard1.0/_._",
-        "lib/netstandard2.0/_._",
-        "runtimes/win-x64/native/e_sqlite3.dll",
-        "runtimes/win-x86/native/e_sqlite3.dll",
-        "runtimes/win8-arm/native/e_sqlite3.dll",
-        "sqlitepclraw.lib.e_sqlite3.v110_xp.1.1.11.nupkg.sha512",
-        "sqlitepclraw.lib.e_sqlite3.v110_xp.nuspec"
-      ]
-    },
-    "SQLitePCLRaw.provider.e_sqlite3.netstandard11/1.1.11": {
-      "sha512": "6q2qXc7GA11ZFh3ATFj9LjzF0HfMtlN1hDi8QATSoML4sR+inquXdionvyX8nUegutOAGXjKDp+8MziaUV5Pkg==",
-      "type": "package",
-      "path": "sqlitepclraw.provider.e_sqlite3.netstandard11/1.1.11",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard1.1/SQLitePCLRaw.provider.e_sqlite3.dll",
-        "sqlitepclraw.provider.e_sqlite3.netstandard11.1.1.11.nupkg.sha512",
-        "sqlitepclraw.provider.e_sqlite3.netstandard11.nuspec"
       ]
     },
     "System.AppContext/4.1.0": {
@@ -6637,11 +6256,6 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Lab_006_Rabbits_Init_100/1.0.0": {
-      "type": "project",
-      "path": "../Labs_006_Rabbits_Init_100/Lab_006_Rabbits_Init_100.csproj",
-      "msbuildProject": "../Labs_006_Rabbits_Init_100/Lab_006_Rabbits_Init_100.csproj"
-    },
     "Lab_008_TDD_Collections/1.0.0": {
       "type": "project",
       "path": "../Lab_008_TDD_Collections/Lab_008_TDD_Collections.csproj",
@@ -6684,11 +6298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\NUnit_Test\\NUnit_Test.csproj",
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\NUnit_Test\\NUnit_Test.csproj",
       "projectName": "NUnit_Test",
-      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\NUnit_Test\\NUnit_Test.csproj",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\NUnit_Test\\NUnit_Test.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\NUnit_Test\\obj\\",
+      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\NUnit_Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6709,17 +6323,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_008_TDD_Collections\\Lab_008_TDD_Collections.csproj": {
-              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_008_TDD_Collections\\Lab_008_TDD_Collections.csproj"
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_008_TDD_Collections\\Lab_008_TDD_Collections.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_008_TDD_Collections\\Lab_008_TDD_Collections.csproj"
             },
-            "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_009_Rabbit_Test\\Lab_009_Rabbit_Test.csproj": {
-              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_009_Rabbit_Test\\Lab_009_Rabbit_Test.csproj"
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_009_Rabbit_Test\\Lab_009_Rabbit_Test.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_009_Rabbit_Test\\Lab_009_Rabbit_Test.csproj"
             },
-            "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_014_LINQ\\Lab_014_LINQ.csproj": {
-              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_014_LINQ\\Lab_014_LINQ.csproj"
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_014_LINQ\\Lab_014_LINQ.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_014_LINQ\\Lab_014_LINQ.csproj"
             },
-            "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_017_NorthwindDb_Test\\Lab_017_NorthwindDb_Test.csproj": {
-              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_017_NorthwindDb_Test\\Lab_017_NorthwindDb_Test.csproj"
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_017_NorthwindDb_Test\\Lab_017_NorthwindDb_Test.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_017_NorthwindDb_Test\\Lab_017_NorthwindDb_Test.csproj"
             }
           }
         }
@@ -6772,5 +6386,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview2-014569\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

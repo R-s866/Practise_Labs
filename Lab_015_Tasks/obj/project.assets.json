@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_015_Tasks\\Lab_015_Tasks.csproj",
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_015_Tasks\\Lab_015_Tasks.csproj",
       "projectName": "Lab_015_Tasks",
-      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_015_Tasks\\Lab_015_Tasks.csproj",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_015_Tasks\\Lab_015_Tasks.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\LABS\\Lab_015_Tasks\\obj\\",
+      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_015_Tasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
