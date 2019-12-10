@@ -5459,11 +5459,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_014_LINQ\\Lab_014_LINQ.csproj",
       "projectName": "Lab_014_LINQ",
       "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_014_LINQ\\Lab_014_LINQ.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_014_LINQ\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_014_LINQ\\Lab_014_LINQ.csproj",
+      "projectName": "Lab_014_LINQ",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_014_LINQ\\Lab_014_LINQ.csproj",
+      "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_014_LINQ\\obj\\",
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_015_Tasks\\Lab_015_Tasks.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_015_Tasks\\Lab_015_Tasks.csproj",
         "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_015_Tasks\\obj\\",
+=======
+    "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_015_Tasks\\Lab_015_Tasks.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_015_Tasks\\Lab_015_Tasks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_015_Tasks\\Lab_015_Tasks.csproj",
+        "projectName": "Lab_015_Tasks",
+        "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_015_Tasks\\Lab_015_Tasks.csproj",
+        "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_015_Tasks\\obj\\",
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

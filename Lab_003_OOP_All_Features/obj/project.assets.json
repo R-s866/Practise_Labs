@@ -15,11 +15,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_003_OOP_All_Features\\Lab_003_OOP_All_Features.csproj",
       "projectName": "Lab_003_OOP_All_Features",
       "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_003_OOP_All_Features\\Lab_003_OOP_All_Features.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_003_OOP_All_Features\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_003_OOP_All_Features\\Lab_003_OOP_All_Features.csproj",
+      "projectName": "Lab_003_OOP_All_Features",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_003_OOP_All_Features\\Lab_003_OOP_All_Features.csproj",
+      "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_003_OOP_All_Features\\obj\\",
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

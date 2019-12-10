@@ -46,6 +46,7 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.Data.SqlClient/1.0.19249.1": {
         "type": "package",
         "dependencies": {
@@ -74,6 +75,8 @@
           }
         }
       },
+=======
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
       "Microsoft.DotNet.InternalAbstractions/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -159,6 +162,7 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.dll": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.SqlServer/3.0.1": {
         "type": "package",
         "dependencies": {
@@ -185,6 +189,9 @@
         }
       },
       "Microsoft.Extensions.Caching.Memory/3.0.1": {
+=======
+      "Microsoft.EntityFrameworkCore.SqlServer/2.1.1": {
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Caching.Abstractions": "3.0.1",
@@ -736,6 +743,31 @@
           "build/netcoreapp2.0/NUnit3TestAdapter.props": {}
         }
       },
+<<<<<<< HEAD
+=======
+      "Remotion.Linq/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections": "4.0.11",
+          "System.Diagnostics.Debug": "4.0.11",
+          "System.Linq": "4.1.0",
+          "System.Linq.Expressions": "4.1.0",
+          "System.Linq.Queryable": "4.0.1",
+          "System.ObjectModel": "4.0.12",
+          "System.Reflection": "4.1.0",
+          "System.Reflection.Extensions": "4.0.1",
+          "System.Runtime": "4.1.0",
+          "System.Runtime.Extensions": "4.1.0",
+          "System.Threading": "4.0.11"
+        },
+        "compile": {
+          "lib/netstandard1.0/Remotion.Linq.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Remotion.Linq.dll": {}
+        }
+      },
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
       "runtime.native.System/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1993,7 +2025,11 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+<<<<<<< HEAD
           "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj": "1.0.0"
+=======
+          "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj": "1.0.0"
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
         },
         "compile": {
           "bin/placeholder/Lab_009_Rabbit_Test.dll": {}
@@ -2209,6 +2245,7 @@
         "version.txt"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Data.SqlClient/1.0.19249.1": {
       "sha512": "HpKyhtd6sVt6lJrF34XyKgve2o9gS9AMNn7SwpO/P3XZ3AZb67144SZZ/8b9JGwgsBxpXGomBUTKgofMfUAoRA==",
       "type": "package",
@@ -2252,6 +2289,8 @@
         "runtimes/win/lib/netstandard2.0/Microsoft.Data.SqlClient.pdb"
       ]
     },
+=======
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
     "Microsoft.DotNet.InternalAbstractions/1.0.0": {
       "sha512": "AAguUq7YyKk3yDWPoWA8DrLZvURxB/LrDdTn1h5lmPeznkFUpfC3p459w5mQYQE0qpquf/CkSQZ0etiV5vRHFA==",
       "type": "package",
@@ -2324,6 +2363,7 @@
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.EntityFrameworkCore.Relational/3.0.1": {
       "sha512": "1+BXTwfzodjVJxJHwNfom5xtoR8OcwQ6pwEzannpnEsb7mh8ZpHU3wE4phtsHOc15h/FVog2C6bnKnNr7VGTnA==",
       "type": "package",
@@ -2340,6 +2380,23 @@
     },
     "Microsoft.EntityFrameworkCore.SqlServer/3.0.1": {
       "sha512": "z5yBGRbM/tfywVcFhHtA/EPL+ZJK+VhyxsnIQPSBV0lzmDKTx+mKSTnSpDCaDZwp4B1VZv//lws1+FaMoeu+xA==",
+=======
+    "Microsoft.EntityFrameworkCore.Relational/2.1.1": {
+      "sha512": "NqH03e/oh0KEy5mepy0Eb5nx49eZOKnpa2/d8iwy7IJTapmqdNWx03kuUycaJ+haHmE5Ad8KtzDJK/Nz3OfFFA==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.relational/2.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.xml",
+        "microsoft.entityframeworkcore.relational.2.1.1.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.SqlServer/2.1.1": {
+      "sha512": "/J15ItbPu+YWmqCs7yDrXNSY9NooWv5sFKrV1aYvDjCi2Z4Ja8LOCQVNynJTjNxDfDihp+PPLD/HoD0e2iZD8Q==",
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlserver/3.0.1",
       "files": [
@@ -3210,6 +3267,30 @@
         "nunit3testadapter.nuspec"
       ]
     },
+<<<<<<< HEAD
+=======
+    "Remotion.Linq/2.2.0": {
+      "sha512": "fK/76UmpC0FXBlGDFVPLJHQlDLYnGC+XY3eoDgCgbtrhi0vzbXDQ3n/IYHhqSKqXQfGw/u04A1drWs7rFVkRjw==",
+      "type": "package",
+      "path": "remotion.linq/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Remotion.Linq.XML",
+        "lib/net35/Remotion.Linq.dll",
+        "lib/net40/Remotion.Linq.XML",
+        "lib/net40/Remotion.Linq.dll",
+        "lib/net45/Remotion.Linq.XML",
+        "lib/net45/Remotion.Linq.dll",
+        "lib/netstandard1.0/Remotion.Linq.dll",
+        "lib/netstandard1.0/Remotion.Linq.xml",
+        "lib/portable-net45+win+wpa81+wp80/Remotion.Linq.dll",
+        "lib/portable-net45+win+wpa81+wp80/Remotion.Linq.xml",
+        "remotion.linq.2.2.0.nupkg.sha512",
+        "remotion.linq.nuspec"
+      ]
+    },
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
     "runtime.native.System/4.3.0": {
       "sha512": "c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
       "type": "package",
@@ -7218,11 +7299,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\NUnit_Test\\NUnit_Test.csproj",
       "projectName": "NUnit_Test",
       "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\NUnit_Test\\NUnit_Test.csproj",
       "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\NUnit_Test\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\NUnit_Test\\NUnit_Test.csproj",
+      "projectName": "NUnit_Test",
+      "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\NUnit_Test\\NUnit_Test.csproj",
+      "packagesPath": "C:\\Users\\Ross Stapleton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\NUnit_Test\\obj\\",
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -7243,6 +7332,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_008_TDD_Collections\\Lab_008_TDD_Collections.csproj": {
               "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Lab_008_TDD_Collections\\Lab_008_TDD_Collections.csproj"
             },
@@ -7260,6 +7350,19 @@
             },
             "C:\\Users\\Ross Stapleton\\source\\repos\\Lab_018_Streamin\\Lab_020_Northwind_Product\\Lab_020_Northwind_Product.csproj": {
               "projectPath": "C:\\Users\\Ross Stapleton\\source\\repos\\Lab_018_Streamin\\Lab_020_Northwind_Product\\Lab_020_Northwind_Product.csproj"
+=======
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_008_TDD_Collections\\Lab_008_TDD_Collections.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_008_TDD_Collections\\Lab_008_TDD_Collections.csproj"
+            },
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_009_Rabbit_Test\\Lab_009_Rabbit_Test.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_009_Rabbit_Test\\Lab_009_Rabbit_Test.csproj"
+            },
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_014_LINQ\\Lab_014_LINQ.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_014_LINQ\\Lab_014_LINQ.csproj"
+            },
+            "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_017_NorthwindDb_Test\\Lab_017_NorthwindDb_Test.csproj": {
+              "projectPath": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Lab_017_NorthwindDb_Test\\Lab_017_NorthwindDb_Test.csproj"
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
             }
           }
         }
@@ -7317,8 +7420,13 @@
     {
       "code": "NU1104",
       "level": "Error",
+<<<<<<< HEAD
       "message": "Unable to find project 'C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj'. Check that the project reference is valid and that the project file exists.",
       "libraryId": "C:\\Users\\Ross Stapleton\\Engineering45b\\PractiseLabs\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj",
+=======
+      "message": "Unable to find project 'C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Ross Stapleton\\Engineering45b\\Practise_Labs\\Labs_006_Rabbits_Init_100\\Lab_006_Rabbits_Init_100.csproj",
+>>>>>>> 8a0f1bb208dfe3e7546cf927f14058723967249d
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]
